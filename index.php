@@ -1,3 +1,3 @@
 <?php
-	echo "Push test";
+	echo "Desde PC";
 ?>
