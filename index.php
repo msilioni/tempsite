@@ -1,3 +1,3 @@
 <?php
-	echo "Desde PC";
+	echo "Modificación del repositorio";
 ?>
