@@ -1,3 +1,3 @@
 <?php
-	echo "Modificación del repositorio";
+	echo "Modificación del repositorio2";
 ?>
