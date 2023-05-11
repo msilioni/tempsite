@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/test', function () {
 echo "Update Test";
 });
+
+Route::get('/test2', function () {
+echo "Este es remoto.";
+});
