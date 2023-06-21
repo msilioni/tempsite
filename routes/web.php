@@ -22,5 +22,5 @@ echo "Update Test";
 });
 
 Route::get('/test2', function () {
-echo "Este es remoto.... Y te pisa el cambio11";
+echo "Este es remoto.... Y te pisa el cambio12";
 });
